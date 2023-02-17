@@ -5,7 +5,7 @@
 
 
 
-Soy un apasionado de la programación y me especializo en el desarrollo de aplicaciones en Python. Actualmente, estoy interesado en proyectos relacionados con el procesamiento de datos y el análisis de datos utilizando Python. Me encanta colaborar con otros desarrolladores y estar al día con las últimas tendencias y tecnologías en programación.
+Soy un apasionado de la programación y me especializo en el desarrollo de aplicaciones en Python. Actualmente, estoy interesado en proyectos relacionados con el desarrollo web utilizando Python. Me encanta colaborar con otros desarrolladores y estar al día con las últimas tendencias y tecnologías en programación.
 
 
 ### Habilidades ⚡

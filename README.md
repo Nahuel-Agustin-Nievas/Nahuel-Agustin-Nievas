@@ -1,4 +1,40 @@
-### Hi there 👋
+## Hola, soy Nahuel Agustín Nievas 👋
+
+
+### Sobre mí
+
+
+
+Soy un apasionado de la programación y me especializo en el desarrollo de aplicaciones en Python. Actualmente, estoy interesado en proyectos relacionados con el procesamiento de datos y el análisis de datos utilizando Python. Me encanta colaborar con otros desarrolladores y estar al día con las últimas tendencias y tecnologías en programación.
+
+
+### Habilidades ⚡
+- Python
+- HTML
+- CSS
+- Javascript
+- Bootstrap
+- SQL
+
+
+### Contáctame 📫
+- [Portfolio](https://nahuel-agustin-nievas.github.io/Portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/nievasnahuel/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Nahuel-Agustin-Nievas/Nahuel-Agustin-Nievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +50,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

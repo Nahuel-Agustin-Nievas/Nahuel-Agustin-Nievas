@@ -10,6 +10,8 @@ Soy un apasionado de la programación y me especializo en el desarrollo de aplic
 
 ### Habilidades ⚡
 - Python
+- Flask
+- Django
 - HTML
 - CSS
 - Javascript
